@@ -1,0 +1,12 @@
+.resultBox {
+  border: 3px solid #f1f1f1;
+  background-color: rgb(236, 200, 40);   
+  align-items: center;
+  justify-content: center; 
+  position:absolute;
+  top:calc(25% - 150px);
+  left:calc(50% - 200px);
+  width:400px;
+  z-index:99999;
+
+}

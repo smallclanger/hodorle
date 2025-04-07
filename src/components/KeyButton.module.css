@@ -1,0 +1,15 @@
+.NoMatch {
+    background-color:dimgray;
+}
+
+.Match {
+    background-color: green;
+}
+
+.CloseMatch {
+    background-color: orange;
+}
+
+.UnTried {
+    background-color: darkgray;
+}

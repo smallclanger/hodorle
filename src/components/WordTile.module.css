@@ -1,0 +1,44 @@
+.tile {
+    border-color: black;
+    border: 2px solid rgb(0,0,0);
+    max-width: 10%;
+    height: 20px;
+    color: black;
+    background-color: lightgray;
+}
+
+.tileNoMatch {
+    border-color: black;
+    border: 2px solid rgb(0,0,0);
+    max-width: 10%;
+    height: 20px;
+    color: white;
+    background-color:darkgray;
+}
+
+
+.tileMatch {
+    border-color: black;
+    border: 2px solid rgb(0,0,0);
+    max-width: 10%;
+    height: 20px;
+    color: white;
+    background-color: green;
+}
+
+.tileMatchClose {
+    border-color: black;
+    border: 2px solid rgb(0,0,0);
+    max-width: 10%;
+    height: 20px;
+    color: white;
+    background-color: orange;
+}
+
+.tileSpecialChar {
+    border: none;
+    max-width: 10%;
+    height: 20px;
+    color: white;
+    background-color: white;
+}
